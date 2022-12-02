@@ -7,3 +7,6 @@ The 5-listfilesdigitonly display current directory contents in a Long format wit
 
 and hidden files (starting with .)
 The 6-firstdirectory script creates a directory named my_first_directory in the /tmp/ directory.
+The 7-movethatfile script Move the file betty from /tmp/ to /
+
+ >>/my_first_directory.
