@@ -6,3 +6,4 @@ The 3-listfiles script display current directory contents in a long format
 The 5-listfilesdigitonly display current directory contents in a Long format with user and group IDs displayed numerically
 
 and hidden files (starting with .)
+The 6-firstdirectory script creates a directory named my_first_directory in the /tmp/ directory.
