@@ -3,3 +3,4 @@ Task 1 script  displays a confused smiley.
 Task 2 script displays the content of the /etc/passwd file.
 Task 3 script display the content of /etc/passwd and /etc/hosts
 Task 4 script displays the last 10 lines of /etc/passwd.
+Task 5 script displays the first 10 lines of /etc/passwd
