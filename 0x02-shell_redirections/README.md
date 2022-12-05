@@ -5,3 +5,4 @@ Task 3 script display the content of /etc/passwd and /etc/hosts
 Task 4 script displays the last 10 lines of /etc/passwd.
 Task 5 script displays the first 10 lines of /etc/passwd
 Task 6 script  displays the third line of the file iacta
+Task 7 script creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
