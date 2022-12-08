@@ -8,3 +8,4 @@ Task 6 script creates a new local variable withname BEST and value School
 Task 7 script creates a new global variable with name BEST and valuse School
 Task 9 script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 Task 9 script the result of POWER divided by DIVIDE, followed by a new line.
+Task 10 script displays the result of BREATH to the power LOVE
