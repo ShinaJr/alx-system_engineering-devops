@@ -3,3 +3,4 @@ Task 1 script prints hello user, where user is the current linux user
 Task 2 script adds /action to the PATH.
 Task 3 script counts the number of the directories in the PATH
 Task 4 script lists environment variables
+Task 5 script lists all local variables and environment variables and functions
