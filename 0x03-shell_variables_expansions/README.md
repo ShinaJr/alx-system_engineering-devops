@@ -13,3 +13,4 @@ Task 11 script converts a number from base 2 to base 10.
 Task 12 script prints all possible combinations of two letters, except oo.
 Task 13 script rints a number with two decimal places, followed by a new line with the number  stored in the environment variable NUM.
 Task 15 script converts a number from base 10 to base 16 whether the munber in base 10 is stored in the environment variable DECIMAL
+Task 15 script encodes and decodes text using the rot13 encryption. Assume ASCII.
